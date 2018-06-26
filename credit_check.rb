@@ -13,3 +13,4 @@ if Modulo Ten == 0
   puts "The number is valid"
 else
   puts "The number is invalid"
+end
